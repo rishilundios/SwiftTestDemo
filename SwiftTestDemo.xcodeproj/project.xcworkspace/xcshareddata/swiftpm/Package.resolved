@@ -1,0 +1,24 @@
+{
+  "originHash" : "846f22429f85d3148260a652d5b320fb3372709497e8c35adbddec8e39816aa2",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "swifttest",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rishilundios/SwiftTest.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "51e6645989143ef8a158e8c4c7f6becd0a313543"
+      }
+    }
+  ],
+  "version" : 3
+}
